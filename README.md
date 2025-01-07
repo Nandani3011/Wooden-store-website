@@ -1,1 +1,3 @@
 # Wooden-store-website
+
+Developed a Wooden Store Website an interactive e-commerce website for a wooden furniture store using HTML, CSS, and JavaScript. The project features a modern UI with a card grid layout to display products, hover effects for enhanced user experience, and icon integrations for navigation. Additionally, it includes a well-structured footer section with contact details and social media links. The website demonstrates responsive design practices, ensuring optimal viewing across various devices. This project highlights my front-end development skills and focus on user-friendly design.
